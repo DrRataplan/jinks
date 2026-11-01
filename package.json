@@ -21,7 +21,7 @@
     "@picocss/pico": "^2.1.1",
     "@teipublisher/jinks-file-manager": "^1.4.0",
     "@teipublisher/pb-components": "3.0.6",
-    "monaco-editor": "^0.55.1"
+    "monaco-editor": "^0.57.0"
   },
   "devDependencies": {
     "ajv": "^8.17.1",
